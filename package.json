@@ -1,7 +1,7 @@
 {
   "name": "@ixkaito/imagemin",
   "version": "0.1.0",
-  "description": "Minify images seamlessly and keep input folder structure.",
+  "description": "Minify images seamlessly while preserving directory structure",
   "main": "index.js",
   "repository": {
     "type": "git",
