@@ -1,0 +1,38 @@
+{
+  "name": "@ixkaito/imagemin",
+  "version": "0.1.0",
+  "description": "Minify images seamlessly and keep input folder structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixkaito/imagemin.git"
+  },
+  "keywords": [
+    "imagemin",
+    "minify",
+    "compress",
+    "image",
+    "images",
+    "jpeg",
+    "jpg",
+    "png",
+    "gif",
+    "svg"
+  ],
+  "author": "Kite",
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixkaito/imagemin/issues"
+  },
+  "homepage": "https://github.com/ixkaito/imagemin#readme",
+  "dependencies": {
+    "globby": "^11.0.0",
+    "imagemin": "^7.0.1"
+  }
+}
